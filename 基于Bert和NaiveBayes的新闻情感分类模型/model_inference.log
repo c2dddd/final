@@ -1,7 +1,0 @@
-[2025-06-28 21:47:38] [ERROR] 未找到模型 deepseek-r1:7b，请确保已正确下载
-[2025-06-28 21:47:38] [INFO] 成功连接到Ollama API，可用模型: deepseek-r1:1.5b
-[2025-06-28 21:47:38] [INFO] 从文件读取新闻数据: news_data.txt
-[2025-06-28 21:47:38] [ERROR] 读取新闻文件时出错: [Errno 2] No such file or directory: 'news_data.txt'
-[2025-06-28 21:47:38] [INFO] 从文件读取标签数据: labels.txt
-[2025-06-28 21:47:38] [ERROR] 读取标签文件时出错: [Errno 2] No such file or directory: 'labels.txt'
-[2025-06-28 21:47:38] [INFO] 开始执行任务: 真假判别
